@@ -3,3 +3,5 @@ This is a random note.
 I hope this works.
 
 Why does this exist?
+
+This is just literally a random note.
